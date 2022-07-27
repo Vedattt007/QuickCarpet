@@ -52,6 +52,7 @@
     "core.DefaultLanguageMixin",
     "core.MinecraftDedicatedServerMixin",
     "core.MinecraftServerMixin",
+    "core.PointOfInterestTypesMixin",
     "core.ServerPlayerEntityMixin",
     "core.ServerPlayNetworkHandlerMixin",
     "core.TagGroupLoaderMixin",
