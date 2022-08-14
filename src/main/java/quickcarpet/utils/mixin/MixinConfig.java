@@ -79,6 +79,7 @@ public class MixinConfig {
             "spawnChunkLevel",
             "spawningAlgorithm",
             "stackableShulkerBoxes",
+            "stackableShulkerBoxesInHoppers",
             "stackableShulkerBoxesInInventories",
             "terracottaRepeaters",
             "tileTickLimit",
