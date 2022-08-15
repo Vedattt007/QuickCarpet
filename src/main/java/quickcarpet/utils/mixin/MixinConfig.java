@@ -51,6 +51,7 @@ public class MixinConfig {
             "drownedEnchantedTridentsFix",
             "dustOnPistons",
             "explosionBlockDamage",
+            "explosionRange",
             "extremeBehaviors",
             "fallingBlockDuplicationFix",
             "fillLimit",
